@@ -1,1 +1,0 @@
-Prefabs Folder - To save gameobjects within Unity for re-use in one or multiple scenes, A way to copy-paste for things like enemies, npcs, etc. 

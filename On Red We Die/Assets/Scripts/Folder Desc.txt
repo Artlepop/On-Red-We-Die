@@ -1,1 +1,0 @@
-Scripts Folder - For any file that is a script/program.
